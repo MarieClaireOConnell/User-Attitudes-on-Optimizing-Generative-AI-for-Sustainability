@@ -45,20 +45,29 @@ This study seeks to examine users' understanding of the environmental impact of 
 - `Attitudes_Optimizing_Generative_AI_Sustainability.ipynb` - Initial evaluation.
 - `10.4 Group Project Final Research Report.doc` - Detailed project report.
 
-## Results & Insights
-- **Regression models** successfully predicted regenerated energy and total energy consumption.
-- **Hyperparameter tuning** significantly improved the accuracy of the FCNN model.
-- The project demonstrated **practical applications** for battery management and EV optimization.
+## Findings and Analysis
+- **AI Familiarity:** Millennials and Gen Z show the highest familiarity with AI, influenced by educational attainment.
+- **Environmental Awareness:** Greater AI familiarity correlates with higher awareness of its environmental impact but does not always lead to engagement with sustainability policies.
+- **Trade-offs:** Users willing to adopt energy-efficient AI solutions are also more likely to reduce usage. Financial cost is a barrier to adopting greener AI technologies.
+- **Regulatory Support:** Users who recognize AI's environmental impact are open to regulatory or financial interventions.
+  
+## Recommendations
+- **Sample Diversity:** Expanding the sample size and diversity of respondents to enhance generalizability.
+- **Longitudinal Studies:** Conducting studies to track changes in public awareness and attitudes over time.
+- **Qualitative Insights:** Incorporating interviews or focus groups for richer contextual insights.
+- **Sustainability Benchmarks:** Establishing clear benchmarks for AI applications, including hardware recycling initiatives and carbon offset programs.
+- **Collaboration:** Working with policymakers and industry leaders to develop actionable recommendations.
+- **Public Awareness:** Increasing awareness through educational outreach and media campaigns.
 
-## Future Work
-- Deploying the model for real-time EV monitoring.
-- Incorporating additional features like weather conditions and traffic data.
-- Further fine-tuning model architectures for better accuracy.
+## Limitations
+- **Sample Bias:** The participant pool may not fully reflect the broader public's perspectives.
+- **Self-reported Data:** Possible biases in self-reported data.
+- **Focus on Energy and Water:** Other sustainability metrics like electronic waste and ethical concerns remain unexplored.
 
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/EV_Charging_Prediction.git
+   git clone https://github.com/YOUR_USERNAME/User-Attitudes-on-Optimizing-Generative-AI-for-Sustainability.git
    ```
 2. Install dependencies:
    ```bash
