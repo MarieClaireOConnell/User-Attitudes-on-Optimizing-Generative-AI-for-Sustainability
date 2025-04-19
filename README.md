@@ -47,7 +47,7 @@ This study seeks to examine users' understanding of the environmental impact of 
 
 ## Findings and Analysis
 - **AI Familiarity:** Millennials and Gen Z show the highest familiarity with AI, influenced by educational attainment.
-- **Environmental Awareness:** Greater AI familiarity correlates with higher awareness of its environmental impact but does not always lead to engagement with sustainability policies.
+- **Environmental Awareness:** Greater AI familiarity correlates with higher awareness of its environmental impact, but does not always lead to engagement with sustainability policies.
 - **Trade-offs:** Users willing to adopt energy-efficient AI solutions are also more likely to reduce usage. Financial cost is a barrier to adopting greener AI technologies.
 - **Regulatory Support:** Users who recognize AI's environmental impact are open to regulatory or financial interventions.
   
@@ -71,6 +71,6 @@ This study seeks to examine users' understanding of the environmental impact of 
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn statsmodels
    ```
 3. Run the Jupyter notebooks to explore and test models.
